@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("yo les potos");
+    printf("wsh la team");
     return (0);
 }
