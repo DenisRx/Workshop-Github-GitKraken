@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("wsh la team");
+    printf("hey");
     return (0);
 }
